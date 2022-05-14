@@ -1,0 +1,15 @@
+#myQuadrat {
+  height: 30vh;
+  width: 30vw;
+  cursor: pointer;
+  background-color: #1df800;
+} 
+
+#myKrise {
+  height: 30vh;
+  width: 30vw;
+  background-color: #ebfc00;
+  cursor: pointer;
+  border-radius: 60%;
+  transition: all 0.5s;
+}
